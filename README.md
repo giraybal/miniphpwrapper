@@ -1,7 +1,8 @@
 # Mini Php Wrapper
 A single file PHP framework.
 
-###Usage
+Usage
+--------
 ```php
 <?php
 require_once('MiniPhpWrapper.php');
@@ -45,7 +46,8 @@ echo $user->email . '<br>';
 ?>
 ```
 
-###Test SQL
+Test SQL
+--------
 ```sql
 CREATE TABLE `user` (
 	`id` INT(10) UNSIGNED NOT NULL AUTO_INCREMENT,
