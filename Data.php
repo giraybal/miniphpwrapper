@@ -18,13 +18,13 @@ class Data {
 
     // Daos
     static $DAOS = array(
-        'Test.php',
+        'User.php',
     );
 
     // informations
-    const DATABASE_HOST = '';
-    const DATABASE_NAME = '';
-    const DATABASE_USERNAME = '';
+    const DATABASE_HOST = 'localhost';
+    const DATABASE_NAME = 'test';
+    const DATABASE_USERNAME = 'root';
     const DATABASE_PASSWORD = '';
     const URL_ROOT = 'https://www.google.com/';
 
